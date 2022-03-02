@@ -1,4 +1,5 @@
 # PFAS
+## PFAS in Ga 
 ## Description
 PFAS (Teflon, etc.) are found not only in pots and pans but also in the blood of people around the world, including 99 percent of Americans. PFAS chemicals pollute water, do not break down, and remain in the environment and people for decades. With that in mind we will be researching the water quality data. We will aiming to find simialrities in the water that had PFAS and those that did not. This will allow us to predict possible water systems that may need to get retested and treated for PFAS.
 
@@ -7,9 +8,14 @@ Andres Almaraz as Data Analyzer, Visualization, and Project Scribe
 David Luis Hiraldo-Panchana as Data Modeler, Visualization, and Team Manager
 
 ## Technology
-Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software
+Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, deepnote 
 
 
+## TimeLine 
+https://time.graphics/line/618637
+
+## Includes Project Flowchart and our power point presentation
+https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UCxZQ/edit?usp=sharing
 
 
 ## Our intial Data sets 
@@ -23,3 +29,9 @@ Given to us by our Client
 ## Notebooks and Collabs will be added here
 https://colab.research.google.com/drive/1eZiaQxOV5fzwgmgRCYrKy140ld9vHomZ?usp=sharing
 
+
+  
+
+
+
+[David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
