@@ -31,7 +31,12 @@ https://colab.research.google.com/drive/1eZiaQxOV5fzwgmgRCYrKy140ld9vHomZ?usp=sh
 
 
   
+## David's Hypothesis
+The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
 
-
+## Current Progress of David's Notebook
+I added my datasets, and have tried and single out the things needed to test my hypothesis, I have so far singled out a few thigns from a data set that primarily focuses on
+the company and where they tested the water, how many people were in that area, how many sites were in that area, and how many of those sites had violations 
+on site. With this I was going to test our hypothesis.
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
