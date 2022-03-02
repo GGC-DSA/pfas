@@ -40,3 +40,11 @@ the company and where they tested the water, how many people were in that area, 
 on site. With this I was going to test our hypothesis.
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
+
+## Andres' Hypothesis
+For me, I have three hypotheses. The first one is see the correlation of the dumping of factory sites has a connection to pfas growth. Second is to see if there are chemicals from dumping that hints the future expose of pfas into the water. The last one is to see if there is a growth in people exposed to pfas in contaminated locations
+
+## Current progress
+Added all my datasets into the notebook. Have been focusing on of them and broke it down to the locations and dates of found chemicals in georgia for each year between 2013-2016. I have also broken down my other sets but am waiting to match up those with teh ucmr data. Soon or later I am hoping to line that up with David's dataset to see if we could find factory dumpings in the same counties for possible correlations.
+
+[Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
