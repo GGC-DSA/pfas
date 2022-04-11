@@ -50,3 +50,6 @@ Added all my datasets into the notebook. Have been focusing on of them and broke
 I moved on to focusing on the US as an whole, and I have broken down my data further down to the months and compared the pfas to the non-pfas chemicals to see a correlation. Then further tested to see each chemical to pfas. Then I moved on see the growth in pfas found in people over the US from 2013-2016.
 
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
+
+## CREATE Summary 
+The goal of our data analytics capstone project is to see any trends or anything that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
