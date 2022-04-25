@@ -8,7 +8,7 @@ Andres Almaraz as Data Analyzer, Visualization, and Project Scribe
 David Luis Hiraldo-Panchana as Data Modeler, Visualization, and Team Manager
 
 ## Technology
-Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, deepnote 
+Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, Deepnote 
 
 
 ## TimeLine 
@@ -28,10 +28,10 @@ Given to us by our Client
 [ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)
 
 ## Notebooks and Collabs will be added here
-](https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
+(https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
   
-## 3 & 4 Hypothesis
+## David's Hypothesis
 The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
 
 ## Current Progress of David's Notebook
@@ -41,7 +41,7 @@ on site. With this I was going to test our hypothesis.
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
-## 1 & 2 Hypothesis
+## Andres' Hypothesis
 For me, I have two hypotheses. First is to see if there are chemicals from dumping that hints the future expose of pfas into the water. The last one is to see if there is a growth in people exposed to pfas in contaminated locations
 
 ## Current progress
