@@ -8,7 +8,7 @@ Andres Almaraz as Data Analyzer, Visualization, and Project Scribe
 David Luis Hiraldo-Panchana as Data Modeler, Visualization, and Team Manager
 
 ## Technology
-Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, Deepnote 
+Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, Deepnote, Bootstrap, LucidPress
 
 
 ## TimeLine 
