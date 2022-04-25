@@ -22,8 +22,11 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 ## Our intial Data sets 
 ~~[biologicalresult.xlsx](https://github.com/GGC-DSA/pfas/files/8076303/biologicalresult.xlsx)~~
 ~~[narrowresult (1).xlsx](https://github.com/GGC-DSA/pfas/files/8076304/narrowresult.1.xlsx)~~
+
 [2016_CDR_Industrial_Processing_and_Use_(May_2020).xlsx](https://github.com/GGC-DSA/pfas/files/8076312/2016_CDR_Industrial_Processing_and_Use_.May_2020.xlsx)
+
 [Water_System_Summary.csv](https://github.com/GGC-DSA/pfas/files/8076308/Water_System_Summary.csv) 
+
 [ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)
 
 ## Notebooks and Collabs will be added here
