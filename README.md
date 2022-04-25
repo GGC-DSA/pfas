@@ -57,5 +57,5 @@ The goal of our data analytics capstone project is to see any trends or anything
 ## Algorithm explanation
 We had two algorithms that we used, we used K means clustering and we used linear regression to see if there was any corrlation between some of the chemical we had.
 
-
+## TODO List 
 
