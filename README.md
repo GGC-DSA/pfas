@@ -28,11 +28,10 @@ Given to us by our Client
 [ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)
 
 ## Notebooks and Collabs will be added here
-~~https://colab.research.google.com/drive/1eZiaQxOV5fzwgmgRCYrKy140ld9vHomZ?usp=sharing~~
-[Capstone.zip](https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
+](https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
   
-## David's Hypothesis
+## 3 & 4 Hypothesis
 The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
 
 ## Current Progress of David's Notebook
@@ -42,8 +41,8 @@ on site. With this I was going to test our hypothesis.
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
-## Andres' Hypothesis
-For me, I have two hypotheses. ~~The first one is see the correlation of the dumping of factory sites has a connection to pfas growth.~~ Second is to see if there are chemicals from dumping that hints the future expose of pfas into the water. The last one is to see if there is a growth in people exposed to pfas in contaminated locations
+## 1 & 2 Hypothesis
+For me, I have two hypotheses. First is to see if there are chemicals from dumping that hints the future expose of pfas into the water. The last one is to see if there is a growth in people exposed to pfas in contaminated locations
 
 ## Current progress
 Added all my datasets into the notebook. Have been focusing on of them and broke it down to the locations and dates of found chemicals in georgia for each year between 2013-2016. I have also broken down my other sets but am waiting to match up those with teh ucmr data. Soon or later I am hoping to line that up with David's dataset to see if we could find factory dumpings in the same counties for possible correlations.
@@ -51,7 +50,7 @@ I moved on to focusing on the US as an whole, and I have broken down my data fur
 
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
 
-## CREATE Summary 
+## Abstract 
 The goal of our data analytics capstone project is to see any trends or anything that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
 
 ## Algorithm explanation
