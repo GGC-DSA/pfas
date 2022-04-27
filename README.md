@@ -30,7 +30,7 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 (https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
   
-## David's Hypothesis
+## 3 and 4 Hypothesis
 The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
 
 ## Current Progress of David's Notebook
@@ -40,7 +40,7 @@ on site. With this I was going to test our hypothesis.
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
-## Andres' Hypothesis
+## 1 and 2 Hypothesis
 The hypothesis I came up with and worked on are if there is a correlation between any non-pfas chemicals to pfas~~, see if the dumpings have a connecion from the factories have a effect rise in pfas in the waters,~~ or if there is a rise of people contaminated with too much pfas in there body.
 
 ## Current progress
