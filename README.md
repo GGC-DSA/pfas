@@ -52,10 +52,10 @@ I moved on to focusing on the US as an whole, and I have broken down my data fur
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
 
 ## Abstract 
-The goal of our data analytics capstone project is to see any trends or anything that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
+The goal of our data analytics capstone project is to see any trends that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
 
 ## Algorithm explanation
-We had two algorithms that we used, we used K means clustering and we used linear regression to see if there was any corrlation between some of the chemical we had.
+We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had.
 
 
 
