@@ -3,12 +3,15 @@
 ## Description
 PFAS (Teflon, etc.) are found not only in pots and pans but also in the blood of people around the world, including 99 percent of Americans. PFAS chemicals pollute water, do not break down, and remain in the environment and people for decades. With that in mind we will be researching the water quality data. We will aiming to find simialrities in the water that had PFAS and those that did not. This will allow us to predict possible water systems that may need to get retested and treated for PFAS.
 
+## Abstract 
+The goal of our data analytics capstone project is to see any trends that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
+
 ## Team
 Andres Almaraz as Data Analyzer, Visualization, and Project Scribe  
 David Luis Hiraldo-Panchana as Data Modeler, Visualization, and Team Manager
 
 ## Technology
-Python, GitHub, Jupyter Notebook, Colab, Tableau, Jira Software, Deepnote, Bootstrap, LucidPress
+Python, GitHub, Jupyter Notebook, ~~Colab,~~ Tableau, Jira Software, Deepnote, Bootstrap, HTML
 
 
 ## TimeLine 
@@ -24,7 +27,8 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 ~~[narrowresult (1).xlsx](https://github.com/GGC-DSA/pfas/files/8076304/narrowresult.1.xlsx)~~  
 [2016_CDR_Industrial_Processing_and_Use_(May_2020).xlsx](https://github.com/GGC-DSA/pfas/files/8076312/2016_CDR_Industrial_Processing_and_Use_.May_2020.xlsx)  
 [Water_System_Summary.csv](https://github.com/GGC-DSA/pfas/files/8076308/Water_System_Summary.csv)  
-[ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)
+[ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)  
+[PFAS_Blood_Data.zip](https://github.com/GGC-DSA/pfas/files/8608164/PFAS_Blood_Data.zip)
 
 ## Notebooks and Collabs will be added here
 (https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
@@ -50,9 +54,6 @@ Added all my datasets into the notebook. Have been focusing on of them and broke
 I moved on to focusing on the US as an whole, and I have broken down my data further down to the months and compared the pfas to the non-pfas chemicals to see a correlation. Then further tested to see each chemical to pfas. Then I moved on see the growth in pfas found in people over the US from 2013-2016.
 
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
-
-## Abstract 
-The goal of our data analytics capstone project is to see any trends that will allow us to find where pfas/teflon in GA have been and will be. This will allow us to show any future sites that may have pfas in the water system. We are using previously found data to find any correlation to possible sites that may have been overlooked. Our data sets have two primary focus areas those being the actual chemical compound of Teflon and the factories. We will be pooling our data to make an interactive website that will locate any future sites, we can do this by tracking the factories that cause the most pollution, and also revisiting the sites that had a null value for the water containment level.
 
 ## Algorithm explanation
 We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had.
