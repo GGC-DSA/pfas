@@ -33,17 +33,6 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 ## Notebooks and Collabs will be added here
 (https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
-  
-## 3 and 4 Hypothesis
-The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
-
-## Current Progress of David's Notebook
-I added my datasets, and have tried and single out the things needed to test my hypothesis, I have so far singled out a few thigns from a data set that primarily focuses on
-the company and where they tested the water, how many people were in that area, how many sites were in that area, and how many of those sites had violations 
-on site. With this I was going to test our hypothesis.
-
-[David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
-
 ## 1 and 2 Hypothesis
 The hypothesis I came up with and worked on are if there is a correlation between any non-pfas chemicals to pfas~~, see if the dumpings have a connecion from the factories have a effect rise in pfas in the waters,~~ or if there is a rise of people contaminated with too much pfas in there body.
 
@@ -54,6 +43,16 @@ Added all my datasets into the notebook. Have been focusing on of them and broke
 I moved on to focusing on the US as an whole, and I have broken down my data further down to the months and compared the pfas to the non-pfas chemicals to see a correlation. Then further tested to see each chemical to pfas. Then I moved on see the growth in pfas found in people over the US from 2013-2016.
 
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
+
+## 3 and 4 Hypothesis
+The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
+
+## Current Progress of David's Notebook
+I added my datasets, and have tried and single out the things needed to test my hypothesis, I have so far singled out a few thigns from a data set that primarily focuses on
+the company and where they tested the water, how many people were in that area, how many sites were in that area, and how many of those sites had violations 
+on site. With this I was going to test our hypothesis.
+
+[David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
 ## Algorithm explanation
 We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had.
