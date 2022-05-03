@@ -118,7 +118,7 @@
                   <i class="bx bx-receipt"></i>
                   <h4>Data</h4>
 				  <a href="assets/UCMR3_All.zip" download>
-                  <p style = "color:red">UCMR3_all.zip (Unregulated Containment Monitoring Rule 2013-2016) <br><a href="https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule">UCMR3 Website source</a></br></p>
+                  <p style = "color:red">UCMR3_all.zip (Unregulated Containment Monitoring Rule 2013-2016) <a href="https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule">UCMR3 Website source</a></p>
 				  </a>
 				  <a href="assets/PFAS_Blood_Data.zip" download>
                   <p style = "color:cyan">PFAS_Blood_Data.zip</p>
