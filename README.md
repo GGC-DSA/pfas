@@ -34,8 +34,8 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 (https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
 ## 1 and 2 Hypothesis
-The first question we asked was,Is there a is an indicator that can be used in finding PFAS in the water? And we found Chlorate, Vanadium, Chromium-6 are indicators of PFOA which is a by product of Teflon. We used linear regression to see if there was correlation with the chemicals shown and pfas/teflon which the graph does show a fairly strong link between the chemcials and telfon. Our second hypothesis was asking if people were getting exposed more to teflon/pfas? Our conclusion was that with the information we had at our disposal we couldnt draw a conclusion  We couldnt come to a conclusion since we didnt have an up to date picture it was hard to determine. Teflon is a forever chemical which is a chemical that shrinks its size by half which would eventually lead people to believe that it is out of your system when in reality it hasnt left.
-
+-- Sorry U can delte this The first question we asked was,Is there a is an indicator that can be used in finding PFAS in the water? And we found Chlorate, Vanadium, Chromium-6 are indicators of PFOA which is a by product of Teflon. We used linear regression to see if there was correlation with the chemicals shown and pfas/teflon which the graph does show a fairly strong link between the chemcials and telfon. Our second hypothesis was asking if people were getting exposed more to teflon/pfas? Our conclusion was that with the information we had at our disposal we couldnt draw a conclusion  We couldnt come to a conclusion since we didnt have an up to date picture it was hard to determine. Teflon is a forever chemical which is a chemical that shrinks its size by half which would eventually lead people to believe that it is out of your system when in reality it hasnt left.
+For me, I have three hypothses.The first one is see the correlation of the dumping factory sites has a connection to pfas growth.Second is to see if there are chemicals from dumping that hints the future expose of pfas into the water.The last one is to see if there is a growth in people exposed to pfas in contaminated locations
 
 ## Final Version
 First iteration I have gathered data that shows more locations of watersites that were tested by many an organzation relating to the same group from the UCMR data(EPA). I am in the process of cleaning that data up and comparing the two to see the connections between them to confirm that they match to ensure consistency between the data. I had planned to examine only Georgia to be able to make predicitions between the chemicals and factories.
@@ -58,7 +58,7 @@ Our last hypothesis was asking Where did PFAS occur most in Georgia in 2016? Whi
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
 ## Algorithm explanation
-We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had.
+We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had. Clustering was mainly used to see if there was a relationship between the two things I was looking at to see if there was a strong relationship.
 
 
 
