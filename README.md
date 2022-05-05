@@ -36,21 +36,23 @@ https://docs.google.com/presentation/d/16LAbcNWwkhSBNQBo9aAx8Sn5ISaNQYd0sFxRM8UC
 ## 1 and 2 Hypothesis
 The hypothesis I came up with and worked on are if there is a correlation between any non-pfas chemicals to pfas~~, see if the dumpings have a connecion from the factories have a effect rise in pfas in the waters,~~ or if there is a rise of people contaminated with too much pfas in there body.
 
-## Current progress
+## Final Version
 First iteration I have gathered data that shows more locations of watersites that were tested by many an organzation relating to the same group from the UCMR data(EPA). I am in the process of cleaning that data up and comparing the two to see the connections between them to confirm that they match to ensure consistency between the data. I had planned to examine only Georgia to be able to make predicitions between the chemicals and factories.
 Second iteration: By this point I had discovered that Georgia didnt offer enough data with pfas to be able to suffiecently use. I then moved to focus on the whole United States to get enough information. I had also discoved that my previous two datasets were too complicated or did not provide with any information to determine if there was anything found in the water. I had decided to drop the both of those then. I also made progress in reformatting my data to be able to better test my theory by restructuring it and breaking it down into months from each year.
 Added all my datasets into the notebook. Have been focusing on of them and broke it down to the locations and dates of found chemicals in georgia for each year between 2013-2016. I have also broken down my other sets but am waiting to match up those with teh ucmr data. Soon or later I am hoping to line that up with David's dataset to see if we could find factory dumpings in the same counties for possible correlations.
 I moved on to focusing on the US as an whole, and I have broken down my data further down to the months and compared the pfas to the non-pfas chemicals to see a correlation. Then further tested to see each chemical to pfas. Then I moved on see the growth in pfas found in people over the US from 2013-2016.
+Third iteration we focused on implemting  all of our visualizations, we added four of our hypothesis that we are working on into a deepnote, we focused heavily on our website which shows all of the visualizations that we found that supported our hypothesis. 
 
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
 
-## 3 and 4 Hypothesis
-The two working hypotheses I have so far are, So I was thinking to see the correlation between the number of violations and the number of sites visited within those counties? Another hypothesis can be, Does population affect the number of violations that occurred on site.
+## 3 and 4 Hypothesis With conclusions 
+3.The next hypothesis focuses on Georgia specifically. The question asked was,Is there a relationship between facilities, violations, and populations in Georgia? Which the conclusion we found was yes There is a relationships between facilities, violations, and populations in Georgia: Lower populations equals more facilities.
+4.Our last hypothesis was asking Where did PFAS occur most in Georgia in 2016? Which we concluded that the two most active pfas cases occurred in dalton and bartow county.
 
-## Current Progress of David's Notebook
-I added my datasets, and have tried and single out the things needed to test my hypothesis, I have so far singled out a few thigns from a data set that primarily focuses on
-the company and where they tested the water, how many people were in that area, how many sites were in that area, and how many of those sites had violations 
-on site. With this I was going to test our hypothesis.
+## Final version of David's Notebook
+I have two out of the four hypothesis with the each of the visualizations, I also supported one of the hypothesis with a clustering method which shows a strong relationship between the items that I was comparing. The hypothesis that I was working with was 3 and 4 .The next hypothesis focuses on Georgia specifically. The question asked was,Is there a relationship between facilities, violations, and populations in Georgia? Which the conclusion we found was yes There is a relationships between facilities, violations, and populations in Georgia: Lower populations equals more facilities.
+Our last hypothesis was asking Where did PFAS occur most in Georgia in 2016? Which we concluded that the two most active pfas cases occurred in dalton and bartow county.
+
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
