@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Presento Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Presento - v3.7.0
+  * Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+      <h1 class="logo me-auto"><a href="index1.html">DSA<span>.</span></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Graphs</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a href="https://dsa-website.netlify.app/">DSA</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+    </div>
+  </header><!-- End Header -->
+</div>
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+      <div class="row">
+        <div class="col-xl-6">
+          <h1>PFAS</h1>
+          <h2>Data relating to the chemical PFAS/Teflon and what we found</h2>
+          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><img src="assets/img/clients/Bootstrap.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/DeepNote.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/Github.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/Jira-Emblem.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/Jupyter.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/sas.png" class="img-fluid" alt=""></div>
+			<div class="swiper-slide"><img src="assets/img/clients/tableau.png" class="img-fluid" alt=""></div>
+			<div class="swiper-slide"><img src="assets/img/clients/notepad++.png" class="img-fluid" alt=""></div>
+         </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row no-gutters">
+          <div class="content col-xl-5 d-flex align-items-stretch">
+            <div class="content">
+              <h3>About PFAS</h3>
+              <p>
+                PFAS can be found through air, dust, soil, and water. Exposure to it in any of those ways can lead to a danger in health. Examples being liver damage, high cholesterol, cancer, etc. We put our focus into the contanimation of PFAS in water and factory dumping that can be causing it
+			  </p>
+            </div>
+          </div>
+          <div class="col-xl-7 d-flex align-items-stretch">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-receipt"></i>
+                  <h4>Data</h4>
+				  <a href="assets/UCMR3_All.zip" download>
+                  <p style = "color:cyan">UCMR3_all.zip (Unregulated Containment Monitoring Rule 2012-2016)</p>
+				  </a>
+				  <a href="assets/PFAS_Blood_Data.zip" download>
+                  <p style = "color:cyan">PFAS_Blood_Data.zip</p>
+				  </a>
+				  </a>
+				  <a href="assets/WaterPro.csv" download>
+                  <p style = "color:cyan">WaterPro.csv</p>
+				  </a>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>Graphs</h4>
+                  <p>Visuals were made to present what we were able to discover from the data. Research was done from there to learn and show what was found</p>
+                </div>
+                <div class="col-md-12 icon-box" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bx bx-shield"></i>
+                  <h4>Goals</h4>
+                  <p>We hope to be able to find any way to help prevent people from exposure of PFAS and educate from what we were able to gather</p>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Tabs Section ======= -->
+    <section id="tabs" class="tabs">
+        <div class="container" data-aos="fade-up">
+
+        <ul class="nav nav-tabs row d-flex">
+          <li class="nav-item col-3">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
+              <i class="ri-map-line"></i>
+              <h4 class="d-none d-lg-block">PFAS Across US 2013 & Info about Data</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+              <i class="ri-map-2-fill"></i>
+              <h4 class="d-none d-lg-block">PFAS Across US 2014 & About Colorado Spike</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+              <i class="ri-map-fill"></i>
+              <h4 class="d-none d-lg-block">PFAS Across US 2015</h4>
+            </a>
+          </li>
+		  <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
+              <i class="ri-syringe-fill"></i>
+              <h4 class="d-none d-lg-block">People with PFAS</h4>
+            </a>
+          </li>
+        </ul>
+
+        <div class="tab-content">
+          <div class="tab-pane active show" id="tab-1">
+            <div class="row">
+              <div class="col-lg-5 order-2 order-lg-1 mt-1 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+                <h3>Using data from UCMR3</h3>
+                <ul>
+                  <li><i class="ri-check-double-line"></i> Using the data we were able to find PFAS within each state by only looking at those that met or exceed the minimum reporting level(MRL) for each PFAS chemical</li>
+                  <li><i class="ri-check-double-line"></i> However as of 2020, the MRL for the PFAS chemicals have lowered drastically more. Example one chemical PFBS which is a chemical under PFAS went from a MRL of 0.09 ug/l to 0.003 ug/l</li>
+                  <li><i class="ri-check-double-line"></i> The data did not contain the values any lower then the MRL that was set from 2012 so it's highly likely that the total amount is far lower then what is shown here</li>
+                </ul>
+                <p>
+                   This graph shows the total amount of PFAS that was recorded in each state of the United States. Several states appear to had no recorded incidents in the time range so they do not appear on the graph
+                </p>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+				<iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/d26138a45bf845b984163159615deb89?height=601" height="601" width="750"/>
+				</iframe>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-2">
+            <div class="row">
+              <div class="col-lg-5 order-2 order-lg-1 mt-1 mt-lg-0">
+                <h3>Rise of recorded PFAS</h3>
+                <p class="fst-italic">
+				 In severaly states there was a large growth in recorded PFAS which resulted in a larger range to be covered in the graph. Out of all of them, Colorado had the highest amount
+                </p>
+                <ul>
+                  <li><i class="ri-check-double-line"></i> Through the years it can be seen that in 2014 several states had a surge of PFAS found in the water systems with Colorado being the biggest offender</li>
+                  <li><i class="ri-check-double-line"></i> From main locations that were found contaminated were all wells in Colorado. Research suggests that it was due to a base sprayed PFAS-laden foam that fire-fighters used at an airforce base that was seeped into the underground aquifers. There was discoveries of other states experiencing the same problem with airforce bases in their states in the same year</li>
+                  <li><i class="ri-check-double-line"></i> Controversy from rose from the concern causing regulations to be pushed for. This presumbly helped the decline of PFAS has there is not any PFAS recorded there for 2015 and later regulations were pushed in 2016</li>
+                </ul>
+				 <p>
+					<a href="https://www.latimes.com/politics/story/2020-01-30/california-pfas-water-contamination-colorado">Source</a>
+                 </p>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/16228880f488464cbc6337c88f4f580f?height=601" height="601" width="750"/>
+				</iframe>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-3">
+            <div class="row">
+              <div class="col-lg-5 order-2 order-lg-1 mt-1 mt-lg-0">
+                <h3>Decline in PFAS</h3>
+                <p>
+                  It can be seen that states that were previously more intense have gone down. Though one two states being New Jersey and Georgia have a higher count of records
+                </p>
+                <ul>
+                  <li><i class="ri-check-double-line"></i> Like with Colorado there was seen a PFAS-laden foam that was used at airforce bases that seeped into the water systems which was shown in the data</li>
+                  <li><i class="ri-check-double-line"></i> Furthermore in Georgia there was an operating plant by Georgia-Pacific that had parchment paper containing PFAS that was closed down in 2015</li>
+                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/b97356a20b8e4be9a77e53c03d1399dc?height=601" height="601" width="750"/>
+				</iframe>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-4">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-1 mt-lg-0">
+                <h3>Data from PFAS_2013-2014 and PFAS_2015-2016</h3>
+                <p>
+                  Both of these data checked different people and recorded the level of each of the types of PFAS in a person's blood system. No date was given in the records for the data so only the end year of both datasets when comparing them
+                </p>
+                <ul>
+                  <li><i class="ri-check-double-line"></i> Both datasets only PFNA was looked at since that was the only chemical that match what UCMR3 contained </li>
+                  <li><i class="ri-check-double-line"></i> Then only the people that were confirmed to be over the MRL was counted which was used for the bar graph</li>
+				  <li><i class="ri-check-double-line"></i> There was little change with the amount of people contaminated from 2014 to 2016 so it is likely that there has not been any improvement to those that were affected</li>
+				  <li><i class="ri-check-double-line"></i> However this can be due to the fact that once you are exposed to PFAS, it will always stay with you. It is possible to contain less of it in one's body but it will always be there which could explain the little change in the bar graph</li>
+				</ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/f639524a-02d6-4222-a6ba-4bc04effe7b6?height=436" height="436" width="500"/>
+				</iframe>
+              </div>
+            </div>
+          </div>		  
+        </div>
+        </div>
+
+      </div>
+    </section>
+	<!-- End Tabs Section -->
+
+	 <!-- ======= Tabs2 Section ======= -->
+	 <section id="tb" class="tabs">
+      <div class="container" data-aos="fade-up">
+
+        <ul class="nav nav-tb row d-flex">
+          <li class="nav-item col-4">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-5">
+              <i class="ri-search-eye-line"></i>
+              <h4 class="d-none d-lg-block">Correlations between Chemicals PFOA/Vanadium/Chlorate</h4>
+            </a>
+          </li>
+          <li class="nav-item col-4">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
+              <i class="ri-search-eye-fill"></i>
+              <h4 class="d-none d-lg-block">Correlation of Chemicals PFOA/Chlorate/Chromium-6</h4>
+            </a>
+          </li>
+          <li class="nav-item col-4">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-7">
+              <i class="ri-search-fill"></i>
+              <h4 class="d-none d-lg-block">Correlation of Chemicals PFOA/Vanadium/Chromium-6</h4>
+            </a>
+          </li>
+        </ul>
+
+        <div class="tab-content">
+          <div class="tab-pane active show" id="tab-5">
+            <div class="row">
+              <div class="col-lg-5 order-2 order-lg-1 mt-1 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+                <h3>Using data from UCMR3</h3>
+                <p>
+                  PFOA is a type of PFAS chemical and from our research was the only one with a possible correlation with non-PFAS chemicals. Graphs of those can be seen in the Graphs section under UCMR3. 
+				  The data was first split between the each PFAS and all other chemicals by each month from 2013-2016. Only areas where PFAS chemicals were found was used to ensure that the data was not possibly skewed. 
+				  Then through coefficient of determination we were able to find a correlation between PFOA, Cholrate, Chromium-6, and Vanadium. These were the only ones to recieve a coefficient of determination high enough to be considered
+                </p>
+                <ul>
+                  <li><i class="ri-check-double-line"></i> PFOA is used in products like water-repellent clothes, cardboard packaging, non-stick pans, cosemtics, and foams used to fight fires</li>
+                  <li><i class="ri-check-double-line"></i> From our observations, we believe that the chemicals mentioned before are indicators to PFOA. They could be used discover to PFOA in the water systems before it is too late</li>
+                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+				<iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/0932fc25044a4aa38b9c9f9e7a36a27d?height=601" height="601" width="750"/>
+				</iframe>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-6">
+            <div class="row">
+              <div class="col-lg-12 order-1 order-lg-2 text-center">
+                <iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/38cd56e6087247b285ee488dea573249?height=601" height="601" width="1000"/>
+				</iframe>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-7">
+            <div class="row">
+              <div class="col-lg-12 order-1 order-lg-2 text-center">
+                <iframe title="Embedded cell output" src="https://embed.deepnote.com/1c411a1a-39b3-482a-9f41-b53f24acaa96/25a3f299-26c3-4d1b-8535-6c21fa32ab77/65e698aa0a2f44ca872532fb3b6e9d83?height=601" height="601" width="1000"/>
+				</iframe>
+              </div>
+            </div>
+        </div>
+	  </div>
+	  </div>
+    </section>
+	<!-- End Tabs Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Graphs</h2>
+          <p>Each graph can be slightly expanded when pressing the + sign when hovering over them</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">UCMR3</li>
+              <li data-filter=".filter-card">WaterPro</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/pfoa_chrom.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR3 1</h4>
+                <p>Linear regression between PFOA and Chromium-6</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/pfoa_chrom.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Linear regression between PFOA and Chromium-6"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/pfoa_vana.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR3 2</h4>
+                <p>Linear Regression between PFOA and Vanadium</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/pfoa_vana.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title ="Linear Regression between PFOA and Vanadium"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/pfoa_chlor.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR 3</h4>
+                <p>Linear Regression between PFOA and Chlorate</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/pfoa_chlor.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title ="Linear Regression between PFOA and Chlorate"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/idk_what_this_was_supposed_to_be.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>WaterPro 1</h4>
+                <p>Violations in Georgia</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/idk_what_this_was_supposed_to_be.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Violations in Georgia"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/pop_num.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>WaterPro 2</h4>
+                <p>Counties in GA comparing Population, Facilities, and Violations</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/pop_num.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Counties in GA comparing Population, Facilities, and Violations"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/relations.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>WaterPro 3</h4>
+                <p>Relations between Facilities, Violations, and Counties Served</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/relations.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Relations between Facilities, Violations, and Counties Served"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/Non_PFAS.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR 4</h4>
+                <p>Non_PFAS chemicals from 2013-2016</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/Non_PFAS.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title ="Non_PFAS chemicals from 2013-2016"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/PFAS.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR 5</h4>
+                <p>PFAS chemicals from 2013-2016</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/PFAS.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PFAS chemicals from 2013-2016"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/PFAS_comparison.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>UCMR 6</h4>
+                <p>Scatter Plot with PFAS and some other chemicals</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/PFAS_comparison.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scatter Plot with PFAS and some other chemicals"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/Sheet_1_1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>WaterPro 4</h4>
+                <p>Number of Facilities in Georgia</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/Sheet_1_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Number of Facilities in Georgia"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Late Nighters</h2>
+        </div>
+
+        <div class="row">
+		  
+		  <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
+		  </div>
+		  
+          <div class="col-lg-4 col-md-2 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/David.png" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/david-hiraldo-panchana-5834b2193/"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>David Luis Hiraldo-Nanchang</h4>
+                <span>Team Manager & Client Liaison<br>Data Modeler<br>Visualization</span>
+              </div>
+            </div>
+          </div>
+          
+		  <div class="col-lg-4 col-md-2 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/tacobotcolor.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/andres-almaraz-7766491b5"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Andres Almaraz</h4>
+                <span>Project Sribe/Documenter<br>Data Analyzer<br>Visualization</span>
+              </div>
+            </div>
+          </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container d-md-flex py-4">
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Presento</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/presento-bootstrap-corporate-template/ -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
