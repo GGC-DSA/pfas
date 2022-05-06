@@ -1,7 +1,8 @@
 # PFAS
-## PFAS in Ga 
-## Description
-PFAS (Teflon, etc.) are found not only in pots and pans but also in the blood of people around the world, including 99 percent of Americans. PFAS chemicals pollute water, do not break down, and remain in the environment and people for decades. With that in mind we will be researching the water quality data. We will aiming to find simialrities in the water that had PFAS and those that did not. This will allow us to predict possible water systems that may need to get retested and treated for PFAS.
+## Links
+
+[Poster](https://github.com/GGC-DSA/pfas/files/8636794/CREATE.Poster.pdf)
+
 
 ## Abstract 
 Our goal was to find trends that will allow us to find PFAS/Teflon in US and GA. It is a manufactured chemical that can cause serious health issues if it enters a person's blood system. Teflon which can contain a chemical of PFAS and can be found on materials like nonstick pan or water repellent clothing. The chemical can never fully go away since it stays wherever it is left whether it is in the air, water, or someone’s body. Our goal is to be able to prevent any harm to people from PFAS at any site and find the offenders causing it.
