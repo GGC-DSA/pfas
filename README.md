@@ -4,7 +4,6 @@
 [Poster](https://github.com/GGC-DSA/pfas/files/8636794/CREATE.Poster.pdf)  
 
 
-
 ## Abstract 
 Our goal was to find trends that will allow us to find PFAS/Teflon in US and GA. It is a manufactured chemical that can cause serious health issues if it enters a person's blood system. Teflon which can contain a chemical of PFAS and can be found on materials like nonstick pan or water repellent clothing. The chemical can never fully go away since it stays wherever it is left whether it is in the air, water, or someone’s body. Our goal is to be able to prevent any harm to people from PFAS at any site and find the offenders causing it.
 
@@ -26,9 +25,6 @@ https://time.graphics/line/618637
 ~~[Water_System_Summary.csv](https://github.com/GGC-DSA/pfas/files/8076308/Water_System_Summary.csv)~~  
 [ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)  
 [PFAS_Blood_Data.zip](https://github.com/GGC-DSA/pfas/files/8608164/PFAS_Blood_Data.zip)
-
-## Notebooks and Collabs will be added here
-(https://github.com/GGC-DSA/pfas/files/8263158/Capstone.zip)
 
 ## 1 and 2 Hypothesis
 Is there is an indicator that can be used in finding PFAS in the water?  
