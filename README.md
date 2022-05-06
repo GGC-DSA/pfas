@@ -47,8 +47,4 @@ Our last hypothesis was asking Where did PFAS occur most in Georgia in 2016? Whi
 
 [David Teflon Notebook.zip](https://github.com/GGC-DSA/pfas/files/8172962/David.Teflon.Notebook.zip)
 
-## Algorithm explanation
-We had two algorithms that we used being K means clustering and linear regression to see if there was any corrlation between some of the chemical we had. Clustering was mainly used to see if there was a relationship between the two things I was looking at to see if there was a strong relationship.
-
-
 
