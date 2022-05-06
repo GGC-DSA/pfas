@@ -1,8 +1,9 @@
 # PFAS
 ## Links
 [Capstone Notebook](https://deepnote.com/workspace/andres-al-71a4-641a0af0-55f4-45b5-b3cd-3b9eadbe9894/project/Capstone-1c411a1a-39b3-482a-9f41-b53f24acaa96/%2FCapstone.ipynb)  
+[Final Report.pdf](https://github.com/GGC-DSA/pfas/files/8637304/Final.Report.pdf)  
 [Poster](https://github.com/GGC-DSA/pfas/files/8636794/CREATE.Poster.pdf)  
-
+[Website Video](https://youtu.be/xrL_Gv2wUks)
 
 ## Abstract 
 Our goal was to find trends that will allow us to find PFAS/Teflon in US and GA. It is a manufactured chemical that can cause serious health issues if it enters a person's blood system. Teflon which can contain a chemical of PFAS and can be found on materials like nonstick pan or water repellent clothing. The chemical can never fully go away since it stays wherever it is left whether it is in the air, water, or someone’s body. Our goal is to be able to prevent any harm to people from PFAS at any site and find the offenders causing it.
