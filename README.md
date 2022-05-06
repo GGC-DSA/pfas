@@ -40,8 +40,8 @@ Third iteration: Broken down the PFAS group of chemicals into separate chemicals
 [Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
 
 ## 3 and 4 Hypothesis
-Is there a relationship between facilities, violations, and populations in Georgia? 
-Our last hypothesis was asking Where did PFAS occur most in Georgia in 2016?
+Is there a relationship between facilities, violations, and populations in Georgia?  
+Where did PFAS occur most in Georgia in 2016?
 
 ## Final version of David's Notebook
 I have hypothesis 3 and 4 with the each of the visualizations, I also supported one of the hypothesis with a clustering method which shows a strong relationship between the items that I was comparing.The next hypothesis focuses on Georgia specifically. The question asked was,Is there a relationship between facilities, violations, and populations in Georgia? Which the conclusion we found was yes There is a relationships between facilities, violations, and populations in Georgia: Lower populations equals more facilities.
