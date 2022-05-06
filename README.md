@@ -23,7 +23,7 @@ https://time.graphics/line/618637
 ~~[biologicalresult.xlsx](https://github.com/GGC-DSA/pfas/files/8076303/biologicalresult.xlsx)~~  
 ~~[narrowresult (1).xlsx](https://github.com/GGC-DSA/pfas/files/8076304/narrowresult.1.xlsx)~~  
 [2016_CDR_Industrial_Processing_and_Use_(May_2020).xlsx](https://github.com/GGC-DSA/pfas/files/8076312/2016_CDR_Industrial_Processing_and_Use_.May_2020.xlsx)  
-~~[Water_System_Summary.csv](https://github.com/GGC-DSA/pfas/files/8076308/Water_System_Summary.csv)  ~~
+~~[Water_System_Summary.csv](https://github.com/GGC-DSA/pfas/files/8076308/Water_System_Summary.csv)~~  
 [ucmr-3-occurrence-data.zip](https://github.com/GGC-DSA/pfas/files/8076314/ucmr-3-occurrence-data.zip)  
 [PFAS_Blood_Data.zip](https://github.com/GGC-DSA/pfas/files/8608164/PFAS_Blood_Data.zip)
 
@@ -39,7 +39,7 @@ First iteration: I have gathered data that shows more locations of water sites t
 Second iteration: I discovered that Georgia didn't offer enough data with PFAS to be able to sufficiently use. I then focused on the whole United States to get more data. My previous two datasets were too complicated and did not provide clear data to determine if there were chemicals found at the sites. I dropped both at that moment. Made progress in reformatting my data to be able to better test my theory by breaking it down into months from each year.
 Third iteration: Broken down the PFAS group of chemicals into separate chemicals for testing. Previously had them together as one assuming they were the same when they are not. Tested linear regression between all possible combinations of PFAS and non-PFAS chemicals.
 
-[Andres Almaraz Notebook.zip](https://github.com/GGC-DSA/pfas/files/8173448/Andres.Almaraz.Notebook.zip)
+[Andres_Capstone.zip](https://github.com/GGC-DSA/pfas/files/8637059/Andres_Capstone.zip)
 
 ## 3 and 4 Hypothesis
 Is there a relationship between facilities, violations, and populations in Georgia?  
